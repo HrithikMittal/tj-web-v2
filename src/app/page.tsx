@@ -12,7 +12,7 @@ export default function Home() {
       Home Page
       <div>Category 1</div>
       <div>
-        <Link href="/category/adhikansh">Category 2</Link>
+        <Link href="/category/2">Category 2</Link>
       </div>
       <div>Category 3</div>
       <div>Category 4</div>
